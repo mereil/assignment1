@@ -1,6 +1,0 @@
-# grocery list
-def groceries(x):
-  grocery_list = []
-  if x not in grocery_list:
-    grocery_list.append(x)
-  return grocery_list
